@@ -6,12 +6,6 @@
 
 
 
-
-
-
-
-
-
 import java.util.*;
 class Hashing {
     public static void main(String[] args) {
