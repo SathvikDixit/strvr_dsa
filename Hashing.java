@@ -32,8 +32,3 @@ class Hashing {
 
 
 
-
-
-
-
-
