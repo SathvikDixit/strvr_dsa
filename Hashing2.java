@@ -9,11 +9,4 @@ public class Hashing2 {
 
 
 
-
-
-
-
-
-
-    
 }
