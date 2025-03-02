@@ -6,9 +6,3 @@ public class Hashing2 {
 }
 
 
-
-
-
-
-
-
