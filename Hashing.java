@@ -28,10 +28,3 @@ class Hashing {
         }
     }
 }
-
-
-
-
-
-
-
