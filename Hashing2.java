@@ -1,7 +1,6 @@
 // Learning Hashing  "THIS IS CHARACTER HASHING"
 
 import java.util.Scanner;
-import java.util.*;
 public class Hashing2 {
     public static void main(String[] args) {
         String  s;
@@ -24,3 +23,7 @@ public class Hashing2 {
         }
     }
 }
+
+
+
+
