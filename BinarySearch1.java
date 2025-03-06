@@ -22,3 +22,12 @@ public class BinarySearch1 {
         System.err.println("Target Element got at the index "+ans);
     }
 }
+
+
+
+
+
+
+
+
+
