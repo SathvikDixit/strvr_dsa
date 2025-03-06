@@ -6,12 +6,6 @@
 
 
 
-
-
-
-
-
-
 public class BinarySearch1 {
     public static int binarySearch(int[] arr, int target) {
         int n = arr.length;
