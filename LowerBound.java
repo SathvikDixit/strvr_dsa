@@ -3,8 +3,3 @@
 public class LowerBound {
     
 }
-
-
-
-
-
