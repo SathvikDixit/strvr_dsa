@@ -26,5 +26,4 @@ public class LowerBound {
 
         System.err.println("The Lower Bound of " +x+ " is index "+soln);
     }
-
 }
