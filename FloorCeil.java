@@ -1,6 +1,6 @@
 // This is 5th problem in Binary Search
-public class FloorCeil {
 
+public class FloorCeil {
     public static int bande(int[] arr, int x, int n) {
         int low = 0, high = n - 1;
         int ans = -1;
