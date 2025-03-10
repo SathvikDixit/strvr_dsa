@@ -1,4 +1,5 @@
 // This is the 3rd problem in Binary Search
+
 public class UpperBound {
     public static int upperBound(int arr[], int n, int x) {
         int low = 0, high = n - 1;
