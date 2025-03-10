@@ -17,8 +17,6 @@ public class UpperBound {
         return ans;
     }
 
-
-
     public static void main(String[] args) {
         int arr[] = {3, 5, 8, 9, 15, 19};
         int n = 6, x = 6;
