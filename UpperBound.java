@@ -19,7 +19,7 @@ public class UpperBound {
 
     public static void main(String[] args) {
         int arr[] = {3, 5, 8, 9, 15, 19};
-        int n = 6, x = 6;
+        int n = arr.length, x = 6;
         int soln = upperBound(arr, n, x);
 
         System.out.println("The upper bound of " +x+ " is "+soln);
