@@ -3,7 +3,7 @@
 public class FirstAndLastOccr {
     public static int lowerBound(int[] arr, int x, int n) {
         int low = 0, high = n - 1;
-        int ans = n;
+        int ans = -1;
 
         while (low <= high) {
             int mid = (low + high) / 2;
@@ -21,7 +21,7 @@ public class FirstAndLastOccr {
 
     public static int upperBound(int arr[], int n, int x) {
         int low = 0, high = n - 1;
-        int ans = n;
+        int ans = -1;
 
         while (low <= high) {
             int mid = (low + high)/2;
