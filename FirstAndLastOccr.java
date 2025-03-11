@@ -36,7 +36,6 @@ public class FirstAndLastOccr {
         return ans;
     }
 
-
     public static void main(String[] args) {
         int arr[] = {1, 3, 5, 7, 7, 9, 10};
         int x = 11, n = arr.length;
