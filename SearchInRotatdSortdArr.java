@@ -16,7 +16,7 @@ public class SearchInRotatdSortdArr {
                 } else {
                     low = mid + 1;  
                 }
-            } 
+            }
             // Right Sorted portion
             else {
                 if (arr[mid] <= target && target <= arr[high]) {
