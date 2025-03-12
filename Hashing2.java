@@ -20,6 +20,7 @@ public class Hashing2 {
             char c;
             c = sc.next().charAt(0);
             System.out.println(hash[c - 'a']);
+            sc.close();
         }
     }
 }

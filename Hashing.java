@@ -27,6 +27,7 @@ class Hashing {
             int number;
             number = sc.nextInt();
             System.out.println(hash[number]);
+            sc.close();
         }
     }
 }
