@@ -1,7 +1,6 @@
 // 7th program in BInary Search i.e., Count Occurrences in Sorted Array
 
 public class countOccurances {
-
     public static int firstOccurrence(int[] arr, int n, int x) {
         int low = 0, high = n - 1;
         int first = -1;
