@@ -61,4 +61,3 @@ public class countOccurances {
         System.out.println("The number of occurrences is: " + ans);
     }
 }
-
