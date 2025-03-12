@@ -37,7 +37,6 @@ public class SearchInRotatdSortArrII {
         return false;  
     }
 
-
     public static void main(String[] args) {
         int arr[] = {7, 8, 9, 1, 2, 2, 3, 3, 4, 5, 6};
         int n = arr.length, target = 2;
