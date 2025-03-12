@@ -3,7 +3,7 @@
 public class LowerBound {
     public static int lowerBound(int[] arr, int x, int n) {
         int low = 0, high = n - 1;
-        int ans = n;
+        int ans =  -1;
 
         while (low <= high) {
             int mid = (low + high) / 2;
@@ -20,8 +20,8 @@ public class LowerBound {
     }
 
     public static void main(String[] args) {
-        int arr[] = {3, 5, 8, 15, 19};
-        int x = 9;
+        int arr[] = {3, 5, 5, 8, 15, 19};
+        int x = 5;
         int n = arr.length;
         int soln = lowerBound(arr, x,n);
 
