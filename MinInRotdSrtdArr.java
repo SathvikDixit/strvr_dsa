@@ -11,7 +11,7 @@ public class MinInRotdSrtdArr {
             if (arr[low] <= arr[mid]) {
                 ans = Math.min(ans, arr[low]);
                 low = mid + 1;
-            } 
+            }
             else {
                 ans = Math.min(ans, arr[mid]);
                 high = mid - 1;
@@ -24,6 +24,6 @@ public class MinInRotdSrtdArr {
         int arr[] = {4, 5, 6, 1, 2, 3};
         int ans = findMin(arr);
 
-        System.out.println("The Minimum Element in thet array is "+ans);
+        System.out.println("The Minimum Element in thet array is " +ans);
     }
 }
