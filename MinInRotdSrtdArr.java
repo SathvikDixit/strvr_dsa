@@ -21,7 +21,7 @@ public class MinInRotdSrtdArr {
     }
 
     public static void main(String[] args) {
-        int arr[] = {4, 5, 6, 1, 2, 3};
+        int arr[] = {4, 5, 6, 7, 1, 2, 3};
         int ans = findMin(arr);
 
         System.out.println("The Minimum Element in thet array is " +ans);
