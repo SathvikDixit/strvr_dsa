@@ -8,13 +8,13 @@ public class HowManyTimesArrHasBeenRotd {
         while (low <= high) {
             int mid = (low + high) / 2;
             
-            if (arr[low] <= arr[high]) {
+           /*  if (arr[low] <= arr[high]) {  // idu illa andu previous prob work aithu Mininmum in rotated sorted array
                 if (arr[low] < ans) {
                     index = low;
-                    // ans = arr[low];
+                    ans = arr[low];
                 }
                 break;
-            }
+            } */
 
             //if left part is sorted:
             if (arr[low] <= arr[mid]) {
