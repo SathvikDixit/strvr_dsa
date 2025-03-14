@@ -23,5 +23,11 @@ public class SingleEleInArr {
         return -1;
     }
 
-   
+   public static void main(String[] args) {
+    int arr[] = {1,1,2,3,3,4,4,8,8};
+    int n = arr.length;
+    int ans = findSingleEle(arr, n);
+    System.out.println("The Single Element in the array is "+ ans);
+   }
+
 }
