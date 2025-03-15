@@ -23,5 +23,4 @@ public class SingleEleInArr {
     int ans = findSingleEle(arr, n);
     System.out.println("The Single Element in the array is "+ ans);
    }
-
 }
