@@ -24,6 +24,3 @@ public class SingleEleInArr {
     System.out.println("The Single Element in the array is "+ ans);
    }
 }
-
-
-
