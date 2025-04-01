@@ -1,5 +1,5 @@
 
-public class LargestInArray {
+public class LargestArr {
     static int findLargestInArray (int arr[]) {
         int max = arr[0];
         for (int i = 0; i < arr.length; i++) {
