@@ -1,8 +1,4 @@
 
-
-
-
-
 public class SecondLargestArray {
     static private int secondSmallest(int[] arr, int n) {
         if (n < 2) {
