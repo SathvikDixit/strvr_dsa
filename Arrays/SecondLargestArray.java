@@ -45,5 +45,4 @@ public class SecondLargestArray {
         System.out.println("Second smallest is " + sS);
         System.out.println("Second largest is " + sL);
     }
-
 }
