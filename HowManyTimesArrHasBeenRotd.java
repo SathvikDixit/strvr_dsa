@@ -46,3 +46,21 @@ public class HowManyTimesArrHasBeenRotd {
         System.out.println("The array is rotated " + ans + " times.");
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
