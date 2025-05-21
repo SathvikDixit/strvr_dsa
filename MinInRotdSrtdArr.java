@@ -27,3 +27,22 @@ public class MinInRotdSrtdArr {
         System.out.println("The Minimum Element in thet array is " +ans);
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
