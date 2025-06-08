@@ -37,13 +37,3 @@ public class MinInRotdSrtdArr {
 
 
 
-
-
-
-
-
-
-
-
-
-
